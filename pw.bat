@@ -1,0 +1,1 @@
+@py.exe C:\Users\orlov_da\Desktop\Мое\Python\pw.py
